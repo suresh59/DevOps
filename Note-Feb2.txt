@@ -1,0 +1,4 @@
+DevOps is an approach to narrow the gap between Dev and Ops teams to
+ reduce to time to Market by improving the collabration between various
+ teams involved in SDLC
+
